@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+ <title>Pefil Social</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ <div class="container">
+ <figure>
+  <img src="https://r2.easyimg.io/o4md8pdw6/picsart_24-02-06_15-01-36-072.png" width="120px" height="150px;">
+  <figcaptio>
+  <h1>Wagner Godinho</h1>
+  <h3>Rio de Janeiro, Brasil</h3>
+  <br>
+  </figcaptio>
+  </figure>
+  <p><b>"Desenvolvedor Front-End"</b></p>
+  <div class="link">
+  <a href="https://github.com/HanzoHassash1">GitHub</a><br>
+  </div>
+  <div>
+  <a href="https://www.tiktok.com/@hanzohasash1?_t=8k2c7AoNa2H&_r=1">TikTok</a><br>
+  </div>
+  <div>
+  <a href="https://www.instagram.com/_wagner2?igsh=MjQ1NjFmajV5ZGFj">Instagram</a><br>
+  </div>
+  <div>
+  <a href="https://br.linkedin.com/in/wagner-santos-a37461247">LinkedIn</a><br>
+  </div>
+  <div>
+  <a href="https://x.com/WagnerS00525546?t=T90ZhzcU9hdtZdYmDNMMTQ&s=09">Twitter</a>
+  </div>
+ </div>
+ <script src="script.js"></script>
+</body>
+</html>https://r2.easyimg.io/o4md8pdw6/picsart_24-02-06_15-01-36-072.png
